@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Akash Homepage"
 title_separator          : "-"
-name                     : &name "Akash Kumar"
+name                     : &name "Akash"
 description              : &description "personal description"
 url                      : https://github.com/akashksingh121/Testing.git # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
